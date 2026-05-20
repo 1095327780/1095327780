@@ -84,8 +84,6 @@ flowchart LR
   E --> D
 ```
 
-> GitHub 自带贡献图和仓库列表已经能展示活跃度，所以这里保留更稳定的项目入口，避免第三方统计图服务异常时出现破图。
-
 ## 内容与联系
 
 - B 站：[阿浩Learn](https://space.bilibili.com/24543451)，主要分享 Obsidian、FLOW 笔记法、AI 工作流和效率工具。
