@@ -64,26 +64,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat-square&logo=markdown&logoColor=white)
 
-## 开源动态
-
-我不太追求把 GitHub Profile 做成数据看板，更希望它一眼能说明：我正在解决什么问题、主要项目是什么、别人可以从哪里开始了解。
-
-| 当前主线 | 说明 |
-| --- | --- |
-| [FLOWnote](https://github.com/1095327780/FLOWnote) | Obsidian AI 笔记插件，把 OpenCode、内置技能和移动端捕获串进知识管理工作流 |
-| [cueflow-legal](https://github.com/1095327780/cueflow-legal) | CueFlow 的隐私政策与支持页面 |
-| [ahaolearn.github.io](https://github.com/1095327780/ahaolearn.github.io) | 个人内容与项目展示页 |
-
-```mermaid
-flowchart LR
-  A[捕获 Capture] --> B[培养 Cultivate]
-  B --> C[连接 Connect]
-  C --> D[创造 Create]
-  E[AI Skills] --> B
-  E --> C
-  E --> D
-```
-
 ## 内容与联系
 
 - B 站：[阿浩Learn](https://space.bilibili.com/24543451)，主要分享 Obsidian、FLOW 笔记法、AI 工作流和效率工具。
