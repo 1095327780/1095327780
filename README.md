@@ -64,20 +64,27 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat-square&logo=markdown&logoColor=white)
 
-## 数据与动态
+## 开源动态
 
-<div align="center">
+我不太追求把 GitHub Profile 做成数据看板，更希望它一眼能说明：我正在解决什么问题、主要项目是什么、别人可以从哪里开始了解。
 
-<img height="170" alt="AHao GitHub stats" src="https://github-readme-stats.vercel.app/api?username=1095327780&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
-<img height="170" alt="AHao top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1095327780&layout=compact&hide_border=true&theme=transparent">
+| 当前主线 | 说明 |
+| --- | --- |
+| [FLOWnote](https://github.com/1095327780/FLOWnote) | Obsidian AI 笔记插件，把 OpenCode、内置技能和移动端捕获串进知识管理工作流 |
+| [cueflow-legal](https://github.com/1095327780/cueflow-legal) | CueFlow 的隐私政策与支持页面 |
+| [ahaolearn.github.io](https://github.com/1095327780/ahaolearn.github.io) | 个人内容与项目展示页 |
 
-</div>
+```mermaid
+flowchart LR
+  A[捕获 Capture] --> B[培养 Cultivate]
+  B --> C[连接 Connect]
+  C --> D[创造 Create]
+  E[AI Skills] --> B
+  E --> C
+  E --> D
+```
 
-<div align="center">
-
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=1095327780&theme=flat&no-frame=true&no-bg=true&margin-w=8">
-
-</div>
+> GitHub 自带贡献图和仓库列表已经能展示活跃度，所以这里保留更稳定的项目入口，避免第三方统计图服务异常时出现破图。
 
 ## 内容与联系
 
